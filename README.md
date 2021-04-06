@@ -48,39 +48,68 @@ If this is your first time using The Drip Factory, you'll need to follow the ini
 
 /******************* FILL THIS SECTION OUT *******************/
 
+
 //Surpeme Item Information (these variables are all case sensitive)
+
 var supremeCategory = "accessories";	//jackets, shirts, tops_sweaters, sweatshirts, pants, shorts, t-shirts, hats, bags, accessories, skate, shoes
+
 var supremeItemName = "Tagless";
+
 var supremeColorList = ["Black", "Purple", "White"];
+
 var supremeSizeList = ["Large", "Small", "XLarge", "Medium"];	//Small, Medium, Large, XLarge
 
+
 //Palace Item Information
+
 var palaceItemName = "PWLWCE";	//This needs to be all caps
+
 var palaceColorList = ["BLUE", "WHITE", "BLACK"];	//These also need to be all caps
+
 var palaceSizeList = ["X-Large", "Large", "Small", "Medium"];	//Small, Medium, Large, X-Large
 
+
 //Adidas Item Information
+
 var adidasCategory = "men-shoes";
+
 var adidasItemName = "Ultraboost Shoes";
+
 var adidasSize = "11.5";
 
+
 //Shipping Information
+
 var fullName = "Terry Krakatoa";
+
 var firstName = "Terry";	//This is needed for Palace and Adidas
+
 var lastName = "Krakatoa";	//This is needed for Palace and Adidas
+
 var shippingAddress = "123 Test Street";
+
 var apartmentNumber = "";	//Leave this as "" if not applicable
+
 var city = "Test City";
+
 var state = "CO";	//Format with two letter state code (i.e. "CO")
+
 var fullStateName = "Colorado"	//This is needed for Adidas, format as full state name (i.e. "Colorado")
+
 var zipCode = "12345";
+
 var phoneNumber = "123-456-7890";	//Format with dashes (i.e. "123-456-7890")
+
 var emailAddress = "terry.krakatoa@test.net";
 
 //Payment Information
+
 var creditCardNumber = "1234567890000000";
+
 var creditCardMonth = "09"	//Format as two digit month (i.e. "05")
+
 var creditCardYear = "2021";	//Format as YYYY (i.e. 2020)
+
 var securityCode = "123";
 
 /***********************************************************/
