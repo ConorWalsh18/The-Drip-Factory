@@ -16,7 +16,8 @@ If this is your first time using The Drip Factory, you'll need to follow the ini
 
 
 ### Setting up the Bot
-###### Note: Everytime you want to update the bot with new information you'll need to re-run these steps.
+#### Note: Everytime you want to update the bot with new information you'll need to re-run these steps.
+
 
 1. Right click the file "beginTheCop" and open it with Sublime Text
 2. Fill in all the information in the top section
