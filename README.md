@@ -120,7 +120,7 @@ var securityCode = "123";
 ### Running the Bot for Everything except Palace
 
 1. Click the factory icon in the top right corner of your Chrome browser to pull up The Drip Factory
-2. Roughly 5-10 seconds before the Supreme drop click the "Start" button
+2. Roughly 5-10 seconds before the drop click the "Start" button
 3. If the page just keeps refreshing, even after the drop has occurred, that means the bot didn't find the item you specified (could be a human error or my code is goofed up, but broh we all know it was a human error, stop messing that ish up broh)
 
 
