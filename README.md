@@ -7,12 +7,13 @@ If this is your first time using The Drip Factory, you'll need to follow the ini
 
 ### Adding the Bot Extension to Chrome (you only need to do this once)
 
-1. Open up Chrome
-2. Click the triple dot icon in the top right corner
-3. Hover over "More Tools" and select "Extensions"
-4. Toggle the "Developer mode" button in the top right corner
-5. Click "Load unpacked"
-6. Navigate to where you extracted "TheDripFactory_Version1" too and select it
+1. Clone this repository
+2. Open up Chrome
+3. Click the triple dot icon in the top right corner
+4. Hover over "More Tools" and select "Extensions"
+5. Toggle the "Developer mode" button in the top right corner
+6. Click "Load unpacked"
+7. Navigate to where you cloned "The-Drip-Factory" too and select it
 
 
 ### Setting up the Bot
